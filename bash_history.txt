@@ -1,0 +1,19 @@
+环境：CUDA11.8 + Linux(Ubuntu)
+训练：tmux终端复用器. epoch=500
+运行：PycharmProfessor2023.2.1 ssh远程解释器
+部署：GeForce RTX 3090
+conda create -n CSR2024 python=3.9
+conda activate CSR2024
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install pyqt5
+pip install pyqt5-tools
+pip install numpy
+pip install pandas
+pip install scipy
+pip install matplotlib
+pip install PIL
+pip install image
+pip install h5py
+pip install sklearn
+pip install scikit-learn
+pip install colorlog
