@@ -67,19 +67,23 @@ Using logging and colorlog to show the messages of the application.
 ### Heatmap Preview
 Here are some previews of the results:white_check_mark:.
 * Xuanwu Lake:
+
 <img src="assets/002.jpg" alt="outline" width="60%"></p>
 <img src="assets/002_heat.jpg" alt="outline" width="60%"></p>
 
 * Mountain Tai:
+
 <img src="assets/003.jpg" alt="outline" width="30%"></p>
 <img src="assets/003_heat.jpg" alt="outline" width="30%"></p>
 
 
 * QinHuai River:
+
 <img src="assets/005.jpg" alt="outline" width="30%"></p>
 <img src="assets/005_heat.jpg" alt="outline" width="30%"></p>
 
 
 * Deji Plaza:
+
 <img src="assets/006.jpg" alt="outline" width="30%"></p>
 <img src="assets/006_heat.jpg" alt="outline" width="30%"></p>
