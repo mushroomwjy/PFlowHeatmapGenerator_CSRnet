@@ -57,7 +57,7 @@ python main.py
 
 ### User Interface
 Using PyQT5 and pyuic5 to generate the user interfaces.
-Displaying figures through "label" widget because my unskilled using of QGraphicsView :monocle_face::hammer:
+Displaying figures through "label" widget because of my unskilled using of QGraphicsView :monocle_face::hammer:
 ><img src="assets/QTDesigner_UI.png" alt="outline" width="90%"></p>
 
 ### Log Recording
