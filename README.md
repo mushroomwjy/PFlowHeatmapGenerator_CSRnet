@@ -1,4 +1,4 @@
-# #:sparkles:PFlowHeatmap Generator: Powered by CSRNet:sparkles:
+# #PFlowHeatmap Generator: Powered by CSRNet
 ><img src="assets/UIOverview.png" alt="outline" width="90%"></p>
 
 Using CSRNet to estimate the crowd density and generate heatmaps for further process.
