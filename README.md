@@ -4,8 +4,7 @@
 Using CSRNet to estimate the crowd density and generate heatmaps for further process.
 CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_CSRNet_Dilated_Convolutional_CVPR_2018_paper.html)
 
-Demonstration Video [[Video]]
-(https://www.bilibili.com/video/BV1HM4m1f7kM)
+Demonstration Video [[Video]](https://www.bilibili.com/video/BV1HM4m1f7kM)
 
 ## Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
